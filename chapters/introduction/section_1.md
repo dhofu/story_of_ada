@@ -13,6 +13,6 @@ Perhaps include General historical background here. Relate to Frankenstein, Brid
 ```
 
 This is where you start writing the actual hook that introduces the reader to the story.<br>
-
+Ada Lovelace and Bridgerton have a lot in common.<br>
 
 [Back to Home](/) | [Back to Chapters](/chapters) | [Forward to Introduction Section 2](/chapters/introduction/section_2.md)
