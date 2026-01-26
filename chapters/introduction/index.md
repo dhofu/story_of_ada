@@ -8,7 +8,7 @@ title: index of introduction
 This subsection contains files that constitute the introduction to the story of Ada.
 
 ## Subsections of the Introduction
-Add subsections to the introduction in separate Markdown files.
+Add subsections to the introduction in separate Markdown files.<br>
 Then create links to the files as follows:
 
 ```
