@@ -3,7 +3,7 @@ layout: default
 title: section 2 of introduction
 ---
 
-This is section 1 of the introduction.
+This is section 2 of the introduction.
 
 # Title of Section 2 of Introduction
 
