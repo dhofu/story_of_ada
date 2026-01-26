@@ -1,3 +1,8 @@
+---
+layout: default
+title: index of blog posts
+---
+
 # Blog Posts
 Welcome to the news blog which informs about the learning process.
 This section of the repository can be used for writing and publishing blogposts about the project.
