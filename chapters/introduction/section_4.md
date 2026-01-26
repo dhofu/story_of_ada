@@ -3,7 +3,7 @@ layout: default
 title: section 4 of introduction
 ---
 ```
-This is section 3 of the introduction.
+This is section 4 of the introduction.
 ```
  
 # Title of Section 4 of Introduction
