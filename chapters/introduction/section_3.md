@@ -16,4 +16,4 @@ Is she the enchantress of numbers? (could be used as rhetorical question? Or int
 Bridge with Justification.
 ```
 
-[Back to Home](/) | [Back to Chapters](/chapters) | [Forward to Introduction Section 3](/chapters/introduction/section_3.md)
+[Back to Home](/) | [Back to Chapters](/chapters) | [Forward to Introduction Section 4](/chapters/introduction/section_4.md)
