@@ -6,8 +6,8 @@ Write a blog post in a separate Markdown document in the folder 'blog'.
 Save the file. Then add a link to the blogpost below.
 Use the following formatting:
 ```
-- [Second Post - December 1, 2025](/blog/filename_of_second_post.md)
-- [First Post - October 17, 2025](/blog/filename_of_first_post.md)
+- [Second Post - Date - Topic - Author](/blog/filename_of_second_post.md)
+- [First Post - Date - Topic - Author](/blog/filename_of_first_post.md)
 ```
 
 ## Recent Posts
