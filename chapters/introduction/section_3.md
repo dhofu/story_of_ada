@@ -8,8 +8,11 @@ This is section 3 of the introduction.
  
 # Title of Section 3 of Introduction
 ```
-This section of the introduction deals with questions and hypothesis.<br>
-Here are some questions raised during the class: Why is Ada so important for computing? Why is she so much relatd to women in STEM? Why is Ada so important for women and children today? => To what extent does Ada Lovelace compare to the idealized role model that she has become today? (Reality check?) Is she the enchantress of numbers? (could be used as rhetorical question? Or introductory question? Provocative use?).
+This section of the introduction deals with questions and hypothesis.
+Here are some questions raised during the class: Why is Ada so important for computing?
+Why is she so much related to women in STEM? Why is Ada so important for women and children today?
+=> To what extent does Ada Lovelace compare to the idealized role model that she has become today? (Reality check?)
+Is she the enchantress of numbers? (could be used as rhetorical question? Or introductory question? Provocative use?).
 Bridge with Justification.
 ```
 
