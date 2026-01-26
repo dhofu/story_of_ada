@@ -1,3 +1,8 @@
+---
+layout: default
+title: index of introduction
+---
+
 # Introduction
 
 This subsection contains files that constitute the introduction to the story of Ada.
