@@ -1,12 +1,14 @@
 ---
 layout: default
-title: section 1 of introduction
+title: section 2 of introduction
 ---
 
 This is section 1 of the introduction.
 
-# Title of Section 3 of Introduction
+# Title of Section 2 of Introduction
 
-This section of the introduction contains 'a hook', a point of entry, for diving into the story of Ada Lovelace.
+This section of the introduction contains basic biographical facts about Ada Lovelace.<br> 
+This section includes a condensed review of the literature.<br> 
+The challenge will be to make maximum use of various media for contextualising the protagonist of our story.<br>
 
 [Back to Home](/) | [Back to Chapters](/chapters) | [Forward to Introduction Section 3](/chapters/introduction/section_3.md)
