@@ -67,19 +67,16 @@ footer: "© 2024 Story of Ada Lovelace. Educational content about computing hist
 defaults:
   - scope:
       path: "chapters/introduction"
-      type: "introduction"
     values:
       layout: "page"
       chapter: "introduction"
   - scope:
       path: "chapters/analysis"
-      type: "analysis"
     values:
       layout: "page"
       chapter: "analysis"
   - scope:
       path: "chapters/conclusions"
-      type: "conclusions"
     values:
       layout: "page"
       chapter: "conclusions"
