@@ -36,16 +36,6 @@ header_pages:
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
-# Navigation
-header_pages:
-  - introduction/index.md
-  - analysis/index.md
-  - conclusion/index.md
-
-# Content settings
-show_excerpts: true
-excerpt_separator: "<!--more-->"
-
 # Chapter metadata (for easy reference in templates)
 chapters:
   introduction:
@@ -84,5 +74,5 @@ defaults:
 # SEO and metadata
 lang: en
 timezone: UTC
-footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
+footer: "© 2026 Story of Ada Lovelace. Educational content about computing history."
 
