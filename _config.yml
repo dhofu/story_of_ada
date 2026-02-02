@@ -33,12 +33,10 @@ paginate: 5
 
 # Navigation (for minima theme)
 header_pages:
-  - about.md
-  - timeline.md
-  - legacy.md
+  - index.md
 
 # Footer settings
-footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
+footer: "© 2026 Story of Ada Lovelace. Educational content about computing history."
 
 # SEO and social sharing
 lang: en
@@ -48,7 +46,7 @@ timezone: UTC
 collections:
   chapters:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:story_of_ada/:chapters/
   timeline:
     output: true
     permalink: /timeline/:name/
