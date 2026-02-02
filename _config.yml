@@ -1,13 +1,4 @@
 title: Story of Ada Lovelace
 description: A sample site with nested content, designed to learn about the use of GitHub and GitHub Pages
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 permalink: pretty
-
-# TOC settings
-markdown: kramdown
-kramdown:
-  toc_levels: 1..6
-  auto_ids: true
-  
-plugins:
-  - jekyll-toc
