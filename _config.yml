@@ -29,11 +29,11 @@ paginate: 5
 # Navigation
 header_pages:
   - title: "Introduction"
-    url: /chapters/introduction/index.md
+    url: /chapters/introduction/index.html
   - title: "Analysis" 
-    url: /chapters/analysis/index.md
+    url: /chapters/analysis/index.html
   - title: "Conclusions"
-    url: /chapters/conclusions/index.md
+    url: /chapters/conclusions/index.html
     
 # Content settings
 show_excerpts: true
