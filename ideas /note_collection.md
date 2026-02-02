@@ -15,3 +15,13 @@ Introduction is being written together = collaborative writing
 sections can be interchanged and changed topic-wise this is more of a sketch 
 ## Conclusion 
 Own conclusions for each sections => copy and paste our own conclusions (e.g. headline - Conclusion to EH section)
+
+=> Citation style: APA 
+
+Word document: 
+1.5 spacing 
+fond: Calibri or Times New Roman (-> use it consistantly) 
+fond size: 12 
+Blocksatz 
+max. three levels of headings 
+=> overall keep it simple 
