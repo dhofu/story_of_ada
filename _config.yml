@@ -2,3 +2,53 @@ title: Story of Ada Lovelace
 description: This is the story of Ada Lovelace
 theme: minima
 permalink: pretty
+
+title: Story of Ada Lovelace
+description: This is the story of Ada Lovelace, the world's first computer programmer
+theme: minima
+permalink: pretty
+
+# Site settings
+url: "https://dhofu.github.io"
+baseurl: "/story_of_ada"
+author: "PS"
+# email: "your.email@example.com"
+
+# Social links (for minima theme)
+# twitter_username: yourusername
+# github_username: yourusername
+# linkedin_username: yourname
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Content settings
+show_excerpts: true
+paginate: 5
+
+# Navigation (for minima theme)
+header_pages:
+  - about.md
+  - timeline.md
+  - legacy.md
+
+# Footer settings
+footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
+
+# SEO and social sharing
+lang: en
+timezone: UTC
+
+# Collections (if you want to organize content)
+collections:
+  chapters:
+    output: true
+    permalink: /:collection/:name/
+  timeline:
+    output: true
+    permalink: /timeline/:name/
