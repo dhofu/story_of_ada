@@ -28,7 +28,7 @@ paginate: 5
 
 # Navigation
 header_pages:
-  - chapters/introduction/index.md
+  - introduction: chapters/introduction/index.md
   - chapters/analysis/index.md
   - chapters/conclusions/index.md
 
