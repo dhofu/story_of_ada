@@ -18,4 +18,4 @@ Then create links to the files as follows:
 - ...
 ```
 
-[Back to Home](/story_of_ada) | [Back to Chapters](/chapters) | [Forward to Introduction Section 1](/story_of_ada/chapters/introduction/section_1.md)
+[Back to Home](/story_of_ada) | [Back to Chapters](/chapters) | [Forward to Introduction Section 1](/story_of_ada/chapters/introduction/section_1.html)
