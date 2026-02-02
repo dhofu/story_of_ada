@@ -1,4 +1,4 @@
-title: Story of Ada Lovelace
+.mdtitle: Story of Ada Lovelace
 description: This is the story of Ada Lovelace, the world's first computer programmer
 theme: minima
 permalink: pretty
@@ -29,11 +29,11 @@ paginate: 5
 # Navigation
 header_pages:
   - title: "Introduction"
-    url: /chapters/introduction/
+    url: /chapters/introduction/index.md
   - title: "Analysis" 
-    url: /chapters/analysis/
+    url: /chapters/analysis/index.md
   - title: "Conclusions"
-    url: /chapters/conclusions/
+    url: /chapters/conclusions/index.md
     
 # Content settings
 show_excerpts: true
@@ -42,28 +42,4 @@ excerpt_separator: "<!--more-->"
 # SEO and metadata
 lang: en
 timezone: UTC
-footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
-
-# Default front matter for sections
-defaults:
-  - scope:
-      path: "chapters/introduction/index.md"
-    values:
-      layout: "page"
-      chapter: "introduction"
-  - scope:
-      path: "chapters/analysis"
-    values:
-      layout: "page"
-      chapter: "analysis"
-  - scope:
-      path: "chapters/conclusions"
-    values:
-      layout: "page"
-      chapter: "conclusions"
-
-# SEO and metadata
-lang: en
-timezone: UTC
 footer: "© 2026 Story of Ada Lovelace. Educational content about computing history."
-
