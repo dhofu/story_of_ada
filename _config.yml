@@ -5,7 +5,7 @@ permalink: pretty
 
 # Site settings
 url: "https://dhofu.github.io"
-baseurl: "/story_of_ada/chapters"
+baseurl: "/story_of_ada"
 author: "PS"
 # email: "your.email@example.com"
 
@@ -26,26 +26,21 @@ plugins:
 show_excerpts: true
 paginate: 5
 
-# Collections for your chapter structure
-collections:
-  introduction:
-    output: true
-    permalink: /introduction/:name/
-    sort_by: order
-  analysis:
-    output: true
-    permalink: /analysis/:name/
-    sort_by: order
-  conclusion:
-    output: true
-    permalink: /conclusions/:name/
-    sort_by: order
+# Navigation
+header_pages:
+  - chapters/introduction/index.md
+  - chapters/analysis/index.md
+  - chapters/conclusions/index.md
+
+# Content settings
+show_excerpts: true
+excerpt_separator: "<!--more-->"
 
 # Navigation
 header_pages:
   - introduction/index.md
   - analysis/index.md
-  - conclusions/index.md
+  - conclusion/index.md
 
 # Content settings
 show_excerpts: true
@@ -60,25 +55,30 @@ chapters:
     title: "Analysis" 
     subtitle: "Mathematical Genius and Programming Vision"
   conclusion:
-    title: "Conclusion"
+    title: "Conclusions"
     subtitle: "Legacy and Impact on Modern Computing"
+
+# SEO and metadata
+lang: en
+timezone: UTC
+footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
 
 # Default front matter for sections
 defaults:
   - scope:
-      path: "_introduction"
+      path: "chapters/introduction"
       type: "introduction"
     values:
       layout: "page"
       chapter: "introduction"
   - scope:
-      path: "_analysis"
+      path: "chapters/analysis"
       type: "analysis"
     values:
       layout: "page"
       chapter: "analysis"
   - scope:
-      path: "_conclusions"
+      path: "chapters/conclusions"
       type: "conclusions"
     values:
       layout: "page"
