@@ -28,12 +28,9 @@ paginate: 5
 
 # Navigation
 header_pages:
-  - title: "Introduction"
-    url: /chapters/introduction/
-  - title: "Analysis" 
-    url: /chapters/analysis/
-  - title: "Conclusions"
-    url: /chapters/conclusions/
+  - chapters/introduction/index.md
+  - chapters/analysis/index.md
+  - chapters/conclusions/index.md
     
 # Content settings
 show_excerpts: true
