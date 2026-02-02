@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: section 1 of introduction
 ---
 
