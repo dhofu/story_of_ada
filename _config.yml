@@ -1,9 +1,4 @@
 title: Story of Ada Lovelace
-description: This is the story of Ada Lovelace
-theme: minima
-permalink: pretty
-
-title: Story of Ada Lovelace
 description: This is the story of Ada Lovelace, the world's first computer programmer
 theme: minima
 permalink: pretty
@@ -46,7 +41,4 @@ timezone: UTC
 collections:
   chapters:
     output: true
-    permalink: /:story_of_ada/:chapters/
-  timeline:
-    output: true
-    permalink: /timeline/:name/
+    permalink: /story_of_ada/chapters/
