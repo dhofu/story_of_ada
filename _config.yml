@@ -26,19 +26,66 @@ plugins:
 show_excerpts: true
 paginate: 5
 
-# Navigation (for minima theme)
+# Collections for your chapter structure
+collections:
+  introduction:
+    output: true
+    permalink: /introduction/:name/
+    sort_by: order
+  analysis:
+    output: true
+    permalink: /analysis/:name/
+    sort_by: order
+  conclusion:
+    output: true
+    permalink: /conclusion/:name/
+    sort_by: order
+
+# Navigation
 header_pages:
-  - index.md
+  - introduction/index.md
+  - analysis/index.md
+  - conclusion/index.md
 
-# Footer settings
-footer: "© 2026 Story of Ada Lovelace. Educational content about computing history."
+# Content settings
+show_excerpts: true
+excerpt_separator: "<!--more-->"
 
-# SEO and social sharing
+# Chapter metadata (for easy reference in templates)
+chapters:
+  introduction:
+    title: "Introduction"
+    subtitle: "The Beginning of a Revolutionary Mind"
+  analysis:
+    title: "Analysis" 
+    subtitle: "Mathematical Genius and Programming Vision"
+  conclusion:
+    title: "Conclusion"
+    subtitle: "Legacy and Impact on Modern Computing"
+
+# Default front matter for sections
+defaults:
+  - scope:
+      path: "_introduction"
+      type: "introduction"
+    values:
+      layout: "page"
+      chapter: "introduction"
+  - scope:
+      path: "_analysis"
+      type: "analysis"
+    values:
+      layout: "page"
+      chapter: "analysis"
+  - scope:
+      path: "_conclusion"
+      type: "conclusion"
+    values:
+      layout: "page"
+      chapter: "conclusion"
+
+# SEO and metadata
 lang: en
 timezone: UTC
+footer: "© 2024 Story of Ada Lovelace. Educational content about computing history."
 
-# Collections (if you want to organize content)
-collections:
-  chapters:
-    output: true
-    permalink: /story_of_ada/chapters/
