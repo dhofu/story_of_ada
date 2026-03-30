@@ -11,6 +11,7 @@ Introduction is being written together = collaborative writing
 2 EH: Different perception between Ada and women nowadays -> Movie analysis & Gender perception <br>
 3 JS: Relevance of Ada and her perception in modern time -last 20 years- -> General percepton and media connection -change- importance in stem? <br>
 3 CJ: Perception of Ada in victorian time -> her immediate circle and the wider world of victorian science <br>
+FD: Ada Lovelace and the female intellect in the Vitorian age - or smth like that lol <br>
 
 sections can be interchanged and changed topic-wise this is more of a sketch 
 ## Conclusion 
