@@ -32,4 +32,10 @@ Part one: Niel, Izzy <br>
 Part two: CJ, Isabel<br> 
 Part tree: Fabia, Mathila, Elena<br> 
 Part four: All of us in the session where we shred eachothers work apart >:) -> Put the Reviews here maybe ?  <br> 
-and then zoom died
+and then zoom died <br> 
+
+lettuce meet: 
+
+to-do until next time: 
+-  Add yourself and your topic to the list
+-  create a folder
