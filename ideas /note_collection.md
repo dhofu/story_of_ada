@@ -31,3 +31,4 @@ Part one: Niel, Izzy <br>
 Part two: CJ, Isabel<br> 
 Part tree: Fabia, Mathila, Elena<br> 
 Part four: All of us in the session where we shred eachothers work apart >:) -> Put the Reviews here maybe ?  <br> 
+and then zoom died
