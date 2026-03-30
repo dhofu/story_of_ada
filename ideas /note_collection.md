@@ -25,3 +25,9 @@ fond size: 12
 Blocksatz 
 max. three levels of headings 
 => overall keep it simple 
+
+## Pairs for the Introduction
+Part one: Niel, Izzy <br> 
+Part two: CJ, Isabel<br> 
+Part tree: Fabia, Mathila, Elena<br> 
+Part four: All of us in the session where we shred eachothers work apart >:) -> Put the Reviews here maybe ?  <br> 
